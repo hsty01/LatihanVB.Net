@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\bin\Debug\Hesti.exe.config
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\bin\Debug\Hesti.exe
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\bin\Debug\Hesti.pdb
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\bin\Debug\Hesti.xml
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\obj\Debug\Hesti.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\obj\Debug\Hesti.Form1.resources
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\obj\Debug\Hesti.Resources.resources
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\obj\Debug\Hesti.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\obj\Debug\Hesti.exe
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\obj\Debug\Hesti.xml
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\obj\Debug\Hesti.pdb
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\obj\Debug\Hesti.Input_Nama.resources
+C:\Users\user\Documents\Latihan Project\Hesti\Hesti\obj\Debug\Hesti.Form2.resources
