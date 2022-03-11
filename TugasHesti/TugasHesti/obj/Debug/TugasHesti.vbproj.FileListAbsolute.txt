@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\bin\Debug\TugasHesti.exe.config
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\bin\Debug\TugasHesti.exe
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\bin\Debug\TugasHesti.pdb
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\bin\Debug\TugasHesti.xml
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\obj\Debug\TugasHesti.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\obj\Debug\TugasHesti.Form1.resources
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\obj\Debug\TugasHesti.Resources.resources
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\obj\Debug\TugasHesti.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\obj\Debug\TugasHesti.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\obj\Debug\TugasHesti.exe
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\obj\Debug\TugasHesti.xml
+C:\Users\ASUS\source\repos\TugasHesti\TugasHesti\obj\Debug\TugasHesti.pdb
