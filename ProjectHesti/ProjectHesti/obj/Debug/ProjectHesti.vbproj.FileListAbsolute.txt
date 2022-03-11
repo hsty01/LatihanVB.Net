@@ -1,0 +1,27 @@
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\bin\Debug\ProjectHesti.exe.config
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\bin\Debug\ProjectHesti.exe
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\bin\Debug\ProjectHesti.pdb
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\bin\Debug\ProjectHesti.xml
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.Form1.resources
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.Resources.resources
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.RestoranHesti.resources
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.TokoHesti.resources
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.exe
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.xml
+C:\Users\user\Documents\Latihan Project\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.pdb
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\bin\Debug\ProjectHesti.exe.config
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\bin\Debug\ProjectHesti.exe
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\bin\Debug\ProjectHesti.pdb
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\bin\Debug\ProjectHesti.xml
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.vbproj.AssemblyReference.cache
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.Form1.resources
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.Resources.resources
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.RestoranHesti.resources
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.TokoHesti.resources
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.vbproj.GenerateResource.cache
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.vbproj.CoreCompileInputs.cache
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.exe
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.xml
+E:\PortofolioHesti\ProjectHesti\ProjectHesti\obj\Debug\ProjectHesti.pdb

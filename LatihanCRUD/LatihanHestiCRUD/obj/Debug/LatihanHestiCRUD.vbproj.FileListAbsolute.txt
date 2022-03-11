@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\bin\Debug\LatihanHestiCRUD.exe.config
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\bin\Debug\LatihanHestiCRUD.exe
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\bin\Debug\LatihanHestiCRUD.pdb
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\bin\Debug\LatihanHestiCRUD.xml
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\obj\Debug\LatihanHestiCRUD.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\obj\Debug\LatihanHestiCRUD.Form1.resources
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\obj\Debug\LatihanHestiCRUD.Resources.resources
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\obj\Debug\LatihanHestiCRUD.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\obj\Debug\LatihanHestiCRUD.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\obj\Debug\LatihanHestiCRUD.exe
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\obj\Debug\LatihanHestiCRUD.xml
+C:\Users\ASUS\source\repos\LatihanHestiCRUD\LatihanHestiCRUD\obj\Debug\LatihanHestiCRUD.pdb
